@@ -1,0 +1,92 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.section {
+    max-width: 1000px;
+    padding: 20px;
+    box-shadow: 2px 2px 8px #ccc;
+    margin: 20px auto;
+}
+
+.section--dark {
+    background: gold;
+}
+
+.section__header {
+    border: 2px solid rgb(68, 68, 68);
+    max-width: 100%;
+}
+
+.section__paragraph {
+    color: rgb(109, 109, 109)
+}
+
+.section__paragraph--highlighted {
+    color: rgb(97, 97, 97)
+}
+
+.section__motivatingSlogan {
+    color: gold;
+    font-style: italic;
+    text-shadow: 2px 2px 0 #000000, 2px -2px 0 #000000,
+        -2px 2px 0 #000000, -2px -2px 0 #000000,
+        2px 0px 0 #000000, 0px 2px 0 #000000,
+        -2px 0px 0 #000000, 0px -2px 0 #000000;
+}
+
+.section__aboutMe {
+    max-width: 100%;
+    font-weight: 150;
+    text-align: center;
+    padding: 20px;
+    border: 2px dashed rgb(68, 68, 68);
+    line-height: 130%
+}
+
+.section__linkGoldenRatio {
+    color: rgb(109, 109, 109);
+    background-color: transparent;
+    text-decoration: none;
+    padding: -20px;
+    margin: 10px;
+}
+
+.section__linkGoldenRatio:hover {
+    color: gold;
+    border: 2px solid #333;
+    border-radius: 20px;
+    background-color: #282828;
+    text-decoration: none;
+    outline: none;
+}
+
+.section__paragraph--linkGoldenRatio {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 20px;
+    max-width: 500px;
+}
+
+.section__projectPicture {
+    -webkit-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    -moz-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.section__hobby {
+    background-color: #eee;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
