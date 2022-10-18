@@ -1,18 +1,18 @@
-# Homepage
+# Homepage✏️
 
 ## Demo:
 
-### How it works:
+## How it works:
 
 
 
-### Destripction:
+## Destripction:
 This is my personal homepage, there is some information about me and my work
 - jump to the headlines
 - click Night Mode Button
 
 
-### Technologies:
+## 👩‍💻Technologies:
 - HTML
 - CSS
 - JS
