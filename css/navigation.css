@@ -7,18 +7,18 @@ html {
 }
 
 .navigation {
+    text-align: center;
     margin: 10px;
-    padding: 10px;
     background: #282828;
+    display: flex;
+    justify-content: space-evenly;
 }
 
-.navigation__list {
-    list-style: none;
-    padding-left: 0;
-}
-
-.navigation__listItem {
+.navigation__item {
     margin: 10px;
+    padding: 5px;
+    color: #282828;
+    flex: 1 1 auto;
 }
 
 .navigation__link {
