@@ -12,15 +12,12 @@ html {
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
     text-align: center;
-    color: black;
-    background-color: #ffffff;
     margin: 0 auto;
     max-width: 1000px;
     padding: 0 10px;
 }
 
 .dark {
-    color: #333;
     background: #282828;
     color: rgb(255, 255, 255);
 }
@@ -59,4 +56,3 @@ html {
     text-align: center;
     padding: 10px;
 }
-
