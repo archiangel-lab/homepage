@@ -11,7 +11,8 @@ html {
     margin: 10px;
     background: #282828;
     display: flex;
-    justify-content: space-evenly;   
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .navigation__item {
@@ -19,7 +20,6 @@ html {
     padding: 5px;
     color: #282828;
     flex: 1 0 0;
-    word-break: break-word;
     flex-flow: column wrap;
 }
 
