@@ -7,16 +7,19 @@
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    line-height: 100%
+    line-height: 100%;
+    text-transform: uppercase;
 }
 
 .contact__link {
     color: gold;
     text-decoration: none;
+    text-transform: none;
 }
 
 .contact__link:hover {
     color: white;
     border-bottom: 1px solid;
     outline: none;
+    text-transform: none;
 }
