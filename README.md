@@ -4,7 +4,7 @@
 https://archiangel-lab.github.io/homepage/
 
 ## How it works:
-
+[![homepage-readme.gif](https://i.postimg.cc/kM0yNHg1/homepage-readme.gif)](https://postimg.cc/XXgF4QFd)
 
 
 ## Destripction:
