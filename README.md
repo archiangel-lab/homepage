@@ -1,6 +1,7 @@
 # Homepage✏️
 
-## Demo:
+## Demo: 
+https://archiangel-lab.github.io/homepage/
 
 ## How it works:
 
